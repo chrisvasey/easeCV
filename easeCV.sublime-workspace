@@ -1,0 +1,682 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"pso",
+				"position"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"co",
+				"cover"
+			],
+			[
+				"add",
+				"addClass	.addClass()"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"border-r",
+				"border-top-right-radius"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"tab",
+				"tbl-a	table-layout: auto;"
+			],
+			[
+				"anim",
+				"anim-	animation: ${1:name} ${2:duration} ${3:timing-function} ${4:delay} ${5:iteration-count} ${6:direction} ${7:fill-mode};"
+			],
+			[
+				"text-a",
+				"text-decoration"
+			],
+			[
+				"ta",
+				"ta	text-align: ${1:left};"
+			],
+			[
+				"ha",
+				"orphans"
+			],
+			[
+				"go",
+				"bgo-bb	background-origin: border-box;"
+			],
+			[
+				"z",
+				"zoo	zoom: 1;"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"blo",
+				"inline-block"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"backgr",
+				"background-repeat"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"remo",
+				"removeClass	.removeClass"
+			],
+			[
+				"wdi",
+				"width"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"tog",
+				"toggleClass	.toggleClass()"
+			],
+			[
+				"fade",
+				"fadeOut	.fadeOut()"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"vi",
+				"vertical-align"
+			],
+			[
+				"broe",
+				"border"
+			],
+			[
+				"js",
+				"js"
+			],
+			[
+				"ext",
+				"text-align"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"margn",
+				"margin-right"
+			],
+			[
+				"background-s",
+				"background-size"
+			],
+			[
+				"sc",
+				"src"
+			],
+			[
+				"rem",
+				"removeAttr	.removeAttr()"
+			],
+			[
+				"z-",
+				"z-index"
+			],
+			[
+				"bore",
+				"border"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"al",
+				"vertical-align"
+			],
+			[
+				"list-s",
+				"list-style"
+			],
+			[
+				"list--s",
+				"list-style-type"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"wd",
+				"width"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"bak",
+				"background-size"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"fot",
+				"font-style"
+			],
+			[
+				"MAR",
+				"margin-left"
+			],
+			[
+				"s",
+				"src"
+			],
+			[
+				"bot",
+				"bottom"
+			],
+			[
+				"pos",
+				"position"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"brow",
+				"View In Browser"
+			],
+			[
+				"",
+				"Browser Integration: Main Menu"
+			],
+			[
+				"pacage",
+				"Package Control: Install Package"
+			],
+			[
+				"brw",
+				"Preferences: Browse Packages"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			],
+			[
+				"Snippet: ",
+				"Snippet: setTimeout function"
+			]
+		],
+		"width": 451.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": true,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp/www/monks/newMonks/index.html",
+		"/C/wamp/www/monks/newMonks/contact.html",
+		"/C/wamp/www/monks/newMonks/css/main.less",
+		"/C/wamp/www/monks/newMonks/css/stylesheet.less",
+		"/C/wamp/www/monks/newMonks/about.html",
+		"/C/wamp/www/monks/development/css/stylesheet.less",
+		"/C/wamp/www/monks/development/index.html",
+		"/C/wamp/www/monks/development/engine1/style.css",
+		"/C/wamp/www/monks/development/images/slider/slider.html",
+		"/C/wamp/www/monks/development/images/slider/index.html",
+		"/C/wamp/www/monks/development/footer.html",
+		"/C/wamp/www/monks/live/script.js",
+		"/C/wamp/www/monks/development/css/bootstrap.css.map",
+		"/C/wamp/www/monks/development/grid.html",
+		"/C/Users/C Vasey/Desktop/index.html",
+		"/C/wamp/www/monks/development/images/slider/cssslider.html",
+		"/C/wamp/www/monks/development/css/fonts.less",
+		"/C/wamp/www/monks/development/css/main.less",
+		"/C/wamp/www/monks/development/js/rollOver.js",
+		"/C/wamp/www/YCL/samsForm/fonts/glyphicons-halflings-regular.svg",
+		"/C/wamp/www/YCL/samsForm/Sign the Employer Charter.docx",
+		"/C/wamp/www/YCL/samsForm/js/less.min.js",
+		"/C/wamp/www/YCL/samsForm/index.html",
+		"/C/wamp/www/thewilde/development/main/stylesheets/text.less",
+		"/C/wamp/www/thewilde/main/stylesheets/stylesheet.less",
+		"/C/wamp/www/thewilde/README.md",
+		"/C/wamp/www/shipSundays/css/main.less",
+		"/C/wamp/www/chrisvasey.com/main/index.html",
+		"/C/wamp/www/thewilde/newMusic/stylesheets/stylesheet.less",
+		"/C/wamp/www/thewilde/newMusic/stylesheets/stylesheet.css",
+		"/C/wamp/www/thewilde/newMusic1/index.html",
+		"/C/wamp/www/YCL/samsForm/images/logo.png",
+		"/C/Program Files/Sublime Text 3/Data/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/C/wamp/www/kval/holding/old/index.html",
+		"/C/wamp/www/kval/holding/css/bootstrap-theme.css.map",
+		"/C/wamp/www/kval/holding/js/form.js",
+		"/C/wamp/www/festiphone/js/nav.js",
+		"/C/wamp/www/kval/holding/css/main.less",
+		"/C/wamp/www/kval/holding/css/stylesheet.less",
+		"/C/wamp/www/kval/pay/js/less.min.js",
+		"/C/wamp/www/dashboard/js/script.js",
+		"/C/wamp/www/chrisvasey.com/main/css/stylesheet.less",
+		"/C/wamp/www/kval/oldSites/minimal/index.html",
+		"/C/wamp/www/kval/oldSites/minimal/css/stylesheet.less",
+		"/C/wamp/www/kval/main/bower_components/fullpage.js/examples/navigationV.html",
+		"/C/wamp/www/kval/main/js/fullpage.js",
+		"/C/wamp/www/kval/oldSites/minimal/css/stylesheet.css",
+		"/C/wamp/www/kval/oldSites/dropbox2/css/stylesheet.less",
+		"/C/wamp/www/kval/oldSites/dropbox2/index.html",
+		"/C/wamp/www/kval/main/css/stylesheet.less",
+		"/C/wamp/www/kval/main/css/main.less",
+		"/C/wamp/www/kval/main/js/examples.js",
+		"/C/wamp/www/kval/main/examples.js",
+		"/C/wamp/www/kval/main/css/examples.css",
+		"/C/wamp/www/kval/website/dropbox/js/script.js",
+		"/C/wamp/www/kval/website/minimal/css/stylesheet.less",
+		"/C/wamp/www/kval/website/minimal/index.html",
+		"/C/wamp/www/kval/website/minimal/js/script.js",
+		"/C/wamp/www/kval/website/dropbox/index.html",
+		"/C/wamp/www/kval/website/minimal/css/main.less",
+		"/C/wamp/www/e95/main/css/main.less",
+		"/C/wamp/www/e95/main/css/fonts.less",
+		"/C/Users/C Vasey/Desktop/fonts/bea/web fonts/bebasneue_regular_macroman/stylesheet.css",
+		"/C/Users/C Vasey/Desktop/fonts/bea/How_to_use_webfonts.html",
+		"/C/wamp/www/e95/main/css/colors.less",
+		"/C/wamp/www/e95/main/css/colors.css",
+		"/C/wamp/www/monks-security-ltd/main/css/colors.less",
+		"/C/wamp/www/monks-security-ltd/main/css/main.less",
+		"/C/wamp/www/monks-security-ltd/README.md",
+		"/C/wamp/www/monks-security-ltd/main/css/bootstrapOveride.less",
+		"/C/wamp/www/monks-security-ltd/main/css/stylesheet.less",
+		"/C/wamp/www/monks-security-ltd/main/js/bootstrap.js",
+		"/C/wamp/www/monks-security-ltd/main/css/bootstrap.css.map",
+		"/C/wamp/www/monks-security-ltd/main/css/bootstrap.css",
+		"/C/wamp/www/monks-security-ltd/main/css/bootstrap-theme.css.map",
+		"/C/wamp/www/monks-security-ltd/main/css/bootstrap-theme.css",
+		"/C/wamp/www/dashboard/css/main.less",
+		"/C/wamp/www/kval/website/dropbox/js/scroll.js",
+		"/C/Android/Projects/eventlight/eventlight/www/js/index.js",
+		"/C/wamp/www/kval/website/main/css/main.less",
+		"/C/wamp/www/kval/website/main/js/grid.js",
+		"/C/wamp/www/kval/website/main/css/stylesheet.less",
+		"/C/wamp/www/kval/website/main/css/bootstrapOveride.less",
+		"/C/wamp/www/kval/website/main/index.html",
+		"/C/wamp/www/kval/website/main/test.css",
+		"/C/wamp/www/kval/index.html",
+		"/C/wamp/www/kval/kvalSite/index.html",
+		"/C/Users/C Vasey/Documents/fambox/app/index.html",
+		"/C/Users/C Vasey/Documents/fambox/app/css/stylesheet.less",
+		"/C/Users/C Vasey/Documents/fambox/app/js/script.js",
+		"/C/Users/C Vasey/Documents/fambox/app/css/main.less",
+		"/C/Users/C Vasey/Documents/fambox/main/index.html",
+		"/C/wamp/www/joeTrain/js/script.js",
+		"/C/wamp/www/kval/main/index.html",
+		"/C/wamp/www/kval/main/css/font-awesome.css",
+		"/C/wamp/www/chrisvasey.com/temp/formmail.php",
+		"/C/wamp/www/chrisvasey.com/temp/contact/index.html",
+		"/C/wamp/www/temp-fp/css/stylesheet.less",
+		"/C/wamp/www/temp-fp/index.html",
+		"/C/wamp/www/chrisvasey.com/temp/index.html",
+		"/C/wamp/www/chrisvasey.com/temp/bower_components/fullPage.js/examples/apple.html",
+		"/C/wamp/www/chrisvasey.com/temp/js/script.js",
+		"/C/wamp/www/chrisvasey.com/temp/js/jquery.slimscroll.min.js",
+		"/C/wamp/www/chrisvasey.com/temp/css/main.less",
+		"/C/wamp/www/chrisvasey.com/main/kivasey.sublime-project",
+		"/C/wamp/www/chrisvasey.com/bootstrap/index.html",
+		"/C/wamp/www/chrisvasey.com/bootstrap/css/stylesheet.less",
+		"/C/Users/C Vasey/Desktop/sms/andorid/viber/.userdata",
+		"/C/Users/C Vasey/Desktop/sms/andorid/whisper-chat/bb56d731-c526-4e58-873a-0835377ba18b",
+		"/C/Users/C Vasey/Desktop/sms/andorid/whisper/tmp",
+		"/C/wamp/www/chrisvasey.com/mobile-first/index.html",
+		"/C/wamp/www/kval/holding/css/stylesheet.css",
+		"/C/wamp/www/kval/holding/js/animation.js",
+		"/C/wamp/www/kval/holding/index.html",
+		"/C/wamp/www/chrisvasey.com/main/stylesheets/stylesheet.less",
+		"/C/wamp/www/kval/holding/css/index.css",
+		"/C/wamp/www/FestiSMS/bootstrap/index.html",
+		"/C/wamp/www/FestiSMS/bootstrap/css/home.less",
+		"/C/wamp/www/FestiSMS/bootstrap/home.css",
+		"/C/wamp/www/FestiSMS/bootstrap/starter.css",
+		"/C/wamp/www/FestiSMS/main/index.html",
+		"/C/wamp/www/FestiSMS/main/scss/stylesheet.scss",
+		"/C/wamp/www/thewilde/holdingPageIcons/index.html",
+		"/C/wamp/www/thewilde/holdingPageIcons/stylesheets/stylesheet.less",
+		"/C/wamp/www/thewilde/main/index.php",
+		"/C/wamp/www/chrisvasey.com/starting/stylesheets/stylesheet.less",
+		"/C/wamp/www/chrisvasey.com/starting/index.html",
+		"/C/wamp/www/chrisvasey.com/starting/js/jquery.min.js"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"content",
+			"aboutMonks",
+			".com",
+			"red",
+			"blue",
+			"border",
+			"blue",
+			"Header",
+			"header",
+			"trans",
+			"line",
+			"hand",
+			"email-form",
+			"input",
+			"font-familt",
+			"enter",
+			"radio",
+			"Username",
+			"font-family: clarksSummit;",
+			"Josefin Sans",
+			"red",
+			".button",
+			" -->",
+			"@grid-float-breakpoint",
+			"masthead",
+			"weekend",
+			"#enter-logo",
+			"splash",
+			"text",
+			"form",
+			"Monday = day1\nTuesday = day2\nWednesday = day3\nThursday = day4\nFriday = day5\n",
+			"run",
+			"open",
+			"browser",
+			"test"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"checkbox",
+			"OTRS Username",
+			"gill_sans",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 62.0
+	},
+	"project": "easeCV.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"lol",
+				"fonts\\glyphicons-halflings-regular.svg"
+			],
+			[
+				"",
+				"bower_components\\fullpage.js\\examples\\navigationV.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"ship",
+				"C:\\wamp\\www\\shipSundays\\ship sundays.sublime-project"
+			],
+			[
+				"the",
+				"C:\\wamp\\www\\projects\\theWilde-Development.sublime-project"
+			],
+			[
+				"",
+				"C:\\wamp\\www\\projects\\theWilde-Development.sublime-project"
+			],
+			[
+				"sams",
+				"C:\\wamp\\www\\projects\\YCL-SamsForm.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 215.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
